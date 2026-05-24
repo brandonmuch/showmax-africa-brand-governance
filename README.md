@@ -14,7 +14,7 @@ Contributed to Showmax Africa's 12-country digital infrastructure rollout as par
 | Item | Detail |
 |---|---|
 | **Client** | Showmax Africa (MultiChoice Group) |
-| **Role** | Strategy Lead and Information Governance Analyst |
+| **Role** | Digital Graphic Designer |
 | **Markets** | Nigeria, Kenya, Ghana, South Africa, Zimbabwe, Zambia, Uganda, Tanzania, Botswana, Namibia, Rwanda, Mozambique |
 | **Platforms** | Facebook, Instagram, X, TikTok |
 | **Impressions** | 1.1 billion |
@@ -34,7 +34,7 @@ Contributed to Showmax Africa's 12-country digital infrastructure rollout as par
 - Created a reference system that standardised brand decisions across geographically dispersed teams operating in different regulatory and cultural contexts
 
 ### Scalable Asset Governance
-- Designed responsive social covers and profile images for 12 markets, each adapted for local platform specifications while remaining within governed brand parameters
+- Designed responsive social covers and profile images for 1 markets, each adapted for local platform specifications while remaining within governed brand parameters
 - Built reusable template systems allowing market teams to produce compliant assets independently and at scale
 - Established format governance across all markets: standardised dimensions, file types, and naming conventions on Facebook, Instagram, and X simultaneously
 
@@ -74,5 +74,4 @@ Contributed to Showmax Africa's 12-country digital infrastructure rollout as par
 
 ## About
 
-**Brandon Muchenje** | AI Governance and Risk Specialist
-brandonmuchenje01@gmail.com
+**Brandon Muchenje**
