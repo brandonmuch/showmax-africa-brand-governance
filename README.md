@@ -71,7 +71,3 @@ Contributed to Showmax Africa's 12-country digital infrastructure rollout as par
 `Template design systems` `Cross-border compliance protocols` `Stakeholder reporting`
 
 ---
-
-## About
-
-**Brandon Muchenje**
